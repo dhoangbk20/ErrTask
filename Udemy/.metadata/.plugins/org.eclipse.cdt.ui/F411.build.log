@@ -1,0 +1,10 @@
+09:55:07 **** Incremental Build of configuration Debug for project F411 ****
+make -j8 all 
+arm-none-eabi-size   F411.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17872	    120	   7520	  25512	   63a8	F411.elf
+Finished building: default.size.stdout
+ 
+
+09:55:07 Build Finished. 0 errors, 0 warnings. (took 341ms)
+
